@@ -1,1 +1,1 @@
-##LAYOUTS ARE IN app/src/main/res/layout
+## LAYOUTS ARE IN app/src/main/res/layout

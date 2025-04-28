@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8C4AE2">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ezy_logo"
+        android:layout_marginLeft="129dp"
+        android:layout_marginTop="191dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="97dp"
+        android:text="Добро пожаловать!"
+        android:textSize="30dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Приветствуем вас на площадке аренды"
+        android:textSize="16dp"
+        android:textColor="#FFFFFF"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="19dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="строительной техники"
+        android:textSize="16dp"
+        android:textColor="#FFFFFF"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="1dp"
+        />
+    <LinearLayout
+        android:layout_width="343dp"
+        android:layout_height="60dp"
+        android:background="@drawable/shape_rounded1"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="74dp"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Регистрация"
+            android:textSize="18dp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="У меня уже есть аккаунт"
+        android:textSize="16dp"
+        android:textColor="#FFFFFF"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="20dp"
+        />
+    <LinearLayout
+        android:layout_width="168dp"
+        android:layout_height="34dp"
+        android:background="@drawable/shape_rounded1"
+        android:layout_marginLeft="122dp"
+        android:layout_marginTop="63dp"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Магазин автозапчастей"
+            android:textSize="12dp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
